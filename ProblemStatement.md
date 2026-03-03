@@ -28,7 +28,11 @@ The AI Agent transforms static data into an immersive learning experience by act
 ### 4. Contribution of Each Group Member
 
 All Together - Brainstorming concepts and details
+
 Yuhao - Maintain Github repository & Standardize base file and technology structure
+
 Rebecca - Project ideantion & Implementation Planning
+
 Ashley - Draft initial version of statements
+
 .....
