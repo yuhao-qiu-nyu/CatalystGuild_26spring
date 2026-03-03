@@ -35,4 +35,8 @@ Rebecca - Project ideantion & Implementation Planning
 
 Ashley - Draft initial version of statements
 
+Yurui - Refine the problem statements
+
+Zoe - Topic & Content Researcher
+
 .....
