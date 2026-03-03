@@ -15,7 +15,7 @@ Theoretical Reference: Based on Ernst Mayr’s evolutionary synthesis, students 
 
 Learning Gap: In a classroom setting, it is difficult to visualize why a "high reproduction rate" is a survival asset during mass extinction but a liability during resource scarcity.
 
-Specific Need: Students require a High-Frequency Feedback Loop. They need to experience "millions of years" of environmental shifts in 15-20 minutes' learning cycle to observe how specific trait allocations survive or fail against the "Climate Dice."
+Specific Need: Students require a High-Frequency Feedback Loop. They need to experience "millions of years" of environmental shifts in 15-20 minutes' learning cycle to observe how specific trait allocations survive or fail against the "Climate Dice".
 
 ### 3. Rationale
 
@@ -23,20 +23,20 @@ In this project, the AI Agent acts as a "Scientific Logic Interpreter" rather th
 
 This game is mainly based on ecosystem theory, while the rationale of the ecosystem lies in recognizing the complex interdependence between living organisms and the environment. Its core is to maintain human well-being and the sustainability of the Earth through ecosystem services such as provisioning, regulating, supporting and cultural functions. Through the valuation and scientific management of natural capital, the ecosystem can ensure the sustainable utilization of resources and address climate change.
 
-The AI Agent transforms static data into an immersive learning experience by acting as a Logical Interpreter. It provides Contextual Scaffolding, translating numerical losses into biological explanations (e.g., explaining why a specific trait failed under new climate conditions). By simulating Emergent Properties, the AI dynamically reacts to complex environmental variables—like shifting terrains or interspecies competition—offering a level of narrative flexibility that traditional scripts cannot achieve. Finally, it creates Psychological Stakes through its role as a "Population Observer," using narrative urgency to teach the fundamental truth of evolution: it is not about reaching perfection, but achieving "survival sufficiency" under pressure.
+The AI Agent transforms static data into an immersive learning experience by acting as a Logical Interpreter. It provides Contextual Scaffolding, translating numerical losses into biological explanations (e.g., explaining why a specific trait failed under new climate conditions). By simulating Emergent Properties, the AI dynamically reacts to complex environmental variables—like shifting terrains or interspecies competition offering a level of narrative flexibility that traditional scripts cannot achieve. Finally, it creates Psychological Stakes through its role as a "Population Observer", using narrative urgency to teach the fundamental truth of evolution: it is not about reaching perfection, but achieving "survival sufficiency" under pressure.
 
 ### 4. Contribution of Each Group Member
 
-All Together - Brainstorming concepts and details
+All Together - Brainstorm concepts and project details
 
-Yuhao - Maintain Github repository & Standardize base file and technology structure
+Yuhao - Standardize Github base file and Technology structure & Refine problem statement
 
-Rebecca - Project ideantion & Implementation Planning
+Rebecca - Project Ideation & Implementation Planning
 
-Ashley - Draft initial version of statements
+Ashley - Draft initial version of problem statement
 
-Yurui - Refine the problem statements
+Yurui - Research for Target learners & Learning Needs
 
-Zoe - Topic & Content Researcher
+Zoe - Research for Topic & Content 
 
 .....
