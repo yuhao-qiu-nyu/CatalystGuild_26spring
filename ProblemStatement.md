@@ -15,7 +15,7 @@ Theoretical Reference: Based on Ernst Mayr’s evolutionary synthesis, students 
 
 Learning Gap: In a classroom setting, it is difficult to visualize why a "high reproduction rate" is a survival asset during mass extinction but a liability during resource scarcity.
 
-Specific Need: Students require a High-Frequency Feedback Loop. They need to experience "millions of years" of environmental shifts in 15 minutes to observe how specific trait allocations survive or fail against the "Climate Dice."
+Specific Need: Students require a High-Frequency Feedback Loop. They need to experience "millions of years" of environmental shifts in 15-20 minutes' learning cycle to observe how specific trait allocations survive or fail against the "Climate Dice."
 
 ### 3. Rationale
 
