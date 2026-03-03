@@ -1,5 +1,5 @@
 # Problem Statement
-## Version 1
+> Version 1
 
 ### 1. Target Learning Audience
 
@@ -23,7 +23,12 @@ In this project, the AI Agent acts as a "Scientific Logic Interpreter" rather th
 
 This game is mainly based on ecosystem theory, while the rationale of the ecosystem lies in recognizing the complex interdependence between living organisms and the environment. Its core is to maintain human well-being and the sustainability of the Earth through ecosystem services such as provisioning, regulating, supporting and cultural functions. Through the valuation and scientific management of natural capital, the ecosystem can ensure the sustainable utilization of resources and address climate change.
 
+The AI Agent transforms static data into an immersive learning experience by acting as a Logical Interpreter. It provides Contextual Scaffolding, translating numerical losses into biological explanations (e.g., explaining why a specific trait failed under new climate conditions). By simulating Emergent Properties, the AI dynamically reacts to complex environmental variables—like shifting terrains or interspecies competition—offering a level of narrative flexibility that traditional scripts cannot achieve. Finally, it creates Psychological Stakes through its role as a "Population Observer," using narrative urgency to teach the fundamental truth of evolution: it is not about reaching perfection, but achieving "survival sufficiency" under pressure.
+
 ### 4. Contribution of Each Group Member
 
-Ashley - draft version of deliverable
+All Together - Brainstorming concepts and details
+Yuhao - Maintain Github repository & Standardize base file and technology structure
+Rebecca - Project ideantion & Implementation Planning
+Ashley - Draft initial version of statements
 .....
