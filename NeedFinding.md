@@ -1,4 +1,4 @@
-# NeedFinding
+# Need Finding
 
 ### 1. Original Problem Statement
 
@@ -103,7 +103,7 @@ Misconceptions arise from abstract concepts, including probabilistic adaptation,
 
 Static classroom materials and passive observation (textbooks, lectures) are insufficient for grasping cumulative evolutionary dynamics.
 
-##Revised Problem Statement##
+## Revised Problem Statement ##
 
 Junior high students and biology enthusiasts struggle to understand evolution because abstract concepts, long timescales, and probabilistic adaptation make it difficult to visualize how traits survive or disappear. Learners need interactive, feedback-rich simulations that allow them to experiment with environmental changes, observe causal relationships, and understand evolutionary trade-offs over time.
 
