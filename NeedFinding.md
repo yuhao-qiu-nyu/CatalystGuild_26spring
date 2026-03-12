@@ -48,7 +48,7 @@ The student initially interpreted “survival of the fittest” as a moral or qu
 
 Through reflection, they recognized that survival depends on environmental suitability, not inherent gene “goodness.”
 
-Insight: Learners need to see evolution as probabilistic adaptation rather than purposeful improvement.
+> Insight: Learners need to see evolution as probabilistic adaptation rather than purposeful improvement.
 
 Abstract and large-scale evolutionary changes are hard to visualize
 
@@ -57,7 +57,7 @@ Major changes (e.g., fish → amphibians, dinosaurs → birds) are difficult to 
 Gradual changes or small-scale trait adaptations are easier to understand.
 
 
-Insight: Learners struggle with scale and cumulative effects in evolution.
+> Insight: Learners struggle with scale and cumulative effects in evolution.
 
 Interactive and visual materials aid comprehension.
 
@@ -66,14 +66,14 @@ Interactive and visual materials aid comprehension.
 Textbooks using hierarchical classification assist in connecting traits and evolutionary lineage.
 
 
-Insight: Visual and interactive representations are more effective than static text for understanding complex evolutionary concepts.
+> Insight: Visual and interactive representations are more effective than static text for understanding complex evolutionary concepts.
 
 Learners want immediate feedback and causal explanations.
 
 When making hypothetical evolutionary decisions (e.g., adapting traits), the student preferred clear explanations: why a trait changed, what environmental factor caused it, and the consequences of the choice.
 
 
-Insight: Feedback that links learner action to evolutionary outcome enhances understanding and engagement.
+> Insight: Feedback that links learner action to evolutionary outcome enhances understanding and engagement.
 
 Simulation-like experiences increase engagement and understanding.
 
@@ -82,7 +82,7 @@ Students valued the idea of controlling a species’ evolution and seeing conseq
 Experiencing sudden environmental changes (volcanoes, temperature shifts, sea-level rise) creates urgency and teaches survival consequences.
 
 
-Insight: Interactive simulations that allow experimentation with evolution and environmental pressures support active learning.
+> Insight: Interactive simulations that allow experimentation with evolution and environmental pressures support active learning.
 
 Trade-offs and unintended consequences are important for learning.
 
