@@ -1,4 +1,4 @@
-# Need Finding
+# NeedFinding
 
 ### 1. Original Problem Statement
 
