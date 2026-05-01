@@ -12,3 +12,8 @@
 ### 3. Literature Review
 
 [Literature Review](https://github.com/yuhao-qiu-nyu/CatalystGuild_26spring/edit/main/LiteratureReview.md)
+
+### 4. Game Start
+
+> Remember to check the requirements.txt
+'streamlit run app.py'
