@@ -17,4 +17,4 @@
 
 > Remember to check the requirements.txt
 
-```python `streamlit run app.py`
+`streamlit run app.py`
