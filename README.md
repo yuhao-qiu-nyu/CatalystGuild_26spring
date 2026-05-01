@@ -16,4 +16,5 @@
 ### 4. Game Start
 
 > Remember to check the requirements.txt
-'streamlit run app.py'
+
+```python `streamlit run app.py`
