@@ -25,18 +25,4 @@ This game is mainly based on ecosystem theory, while the rationale of the ecosys
 
 The AI Agent transforms static data into an immersive learning experience by acting as a Logical Interpreter. It provides Contextual Scaffolding, translating numerical losses into biological explanations (e.g., explaining why a specific trait failed under new climate conditions). By simulating Emergent Properties, the AI dynamically reacts to complex environmental variables—like shifting terrains or interspecies competition offering a level of narrative flexibility that traditional scripts cannot achieve. Finally, it creates Psychological Stakes through its role as a "Population Observer", using narrative urgency to teach the fundamental truth of evolution: it is not about reaching perfection, but achieving "survival sufficiency" under pressure.
 
-### 4. Contribution of Each Group Member
 
-All Together - Brainstorm concepts and project details
-
-Yuhao - Standardize Github base file and Technology structure & Refine problem statement
-
-Rebecca - Project Ideation & Implementation Planning
-
-Ashley - Draft initial version of problem statement
-
-Yurui - Research for Target learners & Learning Needs
-
-Zoe - Research for Topic & Content 
-
-.....
